@@ -1,4 +1,4 @@
-#Big O Notation
+# Big O Notation
 
 Prolems can have multiple solutions, Big O: Determines "best" solution for said problem.
 
