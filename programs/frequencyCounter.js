@@ -54,6 +54,6 @@ const sameEff = (arr,arr1) => {
 }
 
 console.log(sameEff ([2,4,3,6],[4,16,9,36]))
-sameEff([1,2,3],[1,9])
+console.log(sameEff([1,2,3],[1,9]))
 sameEff([1,2,1],[4,4,1])
 
